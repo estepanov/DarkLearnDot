@@ -1,0 +1,217 @@
+.bg-light-gray,
+.bg-white input,
+.bg-white textarea,
+.dropdown.open ul.dropdown-menu input,
+.dropdown.open ul.dropdown-menu textarea,
+.typeahead-container ul .highlight,
+pre {
+    background: #212121 !important;
+}
+body {
+    background-color: black !important;
+}
+.bg-white,
+.dropdown.open ul.dropdown-menu {
+    background-color: black !important;
+}
+#fs-nav .brand {
+    background-image: url("https://www.fullstackacademy.com/images/fa-logo-white-footer.png") !important;
+}
+a div.logo.brand.mobile-hide[style='background-image: url("assets/images/fullstack-logo.png");'] {
+    background-image: url("https://www.fullstackacademy.com/images/fa-logo-white-footer.png") !important;
+}
+#fs-nav .mobile-logo {
+    width: 163px !important;
+    height: 34px !important;
+}
+#fs-nav input[type=date],
+#fs-nav input[type=datetime-local],
+#fs-nav input[type=datetime],
+#fs-nav input[type=email],
+#fs-nav input[type=month],
+#fs-nav input[type=number],
+#fs-nav input[type=password],
+#fs-nav input[type=search],
+#fs-nav input[type=tel],
+#fs-nav input[type=text],
+#fs-nav input[type=time],
+#fs-nav input[type=url],
+#fs-nav input[type=week] {
+    padding: .5rem !important;
+}
+#fs-nav a,
+.active,
+.alert-warning .growl-message,
+.black {
+    /* nav bar links */
+    
+    color: white !important;
+    font-weight: 800 !important;
+    font-size: 1.2em;
+}
+#fs-nav input[type=date],
+#fs-nav input[type=datetime-local],
+#fs-nav input[type=datetime],
+#fs-nav input[type=email],
+#fs-nav input[type=month],
+#fs-nav input[type=number],
+#fs-nav input[type=password],
+#fs-nav input[type=search],
+#fs-nav input[type=tel],
+#fs-nav input[type=text],
+#fs-nav input[type=time],
+#fs-nav input[type=url],
+#fs-nav input[type=week] {
+    color: white !important;
+}
+.bg-light-gray-2 {
+    /* bottom of page box */
+    
+    background: #0f0f0f !important
+}
+.border-bottom {
+    border-bottom-color: black !important;
+}
+.mt4 {
+    margin-top: 1rem !important;
+}
+body {
+    color: white;
+}
+table {
+    border-color: #9e9e9e !important;
+}
+.bg-black {
+    background: #212121 !important;
+}
+.border,
+.dropdown.open ul.dropdown-menu,
+.growl-container .growl-item,
+pre {
+    border-color: black !important;
+}
+.border-right {
+    border-right-color: black !important;
+}
+.border-top {
+    border-top-color: black !important;
+}
+.border-left {
+    border-left-color: black !important;
+}
+.white-background {
+    background: #424242 !important;
+}
+#workshop-sidebar .workshop-sidebar-header a,
+.blue,
+.typeahead-container ul .highlight p,
+[typeahead-popup] li:hover a,
+action-body a {
+    color: #e0e0e0 !important;
+}
+.action-content>h1 {
+    color: white !important;
+    font-weight: 900 !important;
+    margin: 0 0 24px !important;
+}
+.action-view {
+    color: lightgrey !important;
+}
+.action-view code {
+    background-color: #212121 !important;
+    color: grey !important
+}
+#workshop-sidebar .bg-sidebar-default {
+    background-color: black !important;
+}
+#workshop-sidebar .workshop-sidebar-graphic {
+    border-right: 1px solid black !important;
+    border-bottom: 3px solid black !important;
+    background-color: black !important;
+}
+#workshop-sidebar .workshop-sidebar-header {
+    border-color: black !important;
+    background-color: #181818 !important;
+}
+#workshop-sidebar .workshop-sidebar-list .workshop-concepts>a {
+    border-color: #2a3035;
+    padding: 17px 30px 19px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #d4d9dd;
+    background-color: #181818;
+}
+#fs-subheader .active {
+    background-color: #202020 !important;
+}
+#workshop-sidebar {
+    background-color: black !important;
+}
+#workshop-sidebar .workshop-sidebar-list .workshop-actions a {
+    color: #c9d0d6 !important;
+    background-color: #0f0f0f !important;
+}
+.border-bottom {
+    border-bottom-style: none !important;
+    border-bottom-width: 0px !important;
+}
+#fs-nav #nav-directive-row>* {
+    background-color: black !important;
+}
+#root-node #header-component {
+    color: white !important;
+    background-color: #494949 !important;
+}
+#root-node #help-desk-title {
+    color: white !important;
+    font-weight: 800 !important;
+}
+#open-help-desk {
+    border: none !important;
+}
+#root-node #ticket {
+    background-color: #1A1A1A !important;
+    color: #43484d;
+}
+#root-node #help-desk-ticket-sidebar {
+    background-color: #1A1A1A !important;
+}
+#root-node #help-desk-body-main {
+    background-color: black !important;
+    color: grey !important;
+}
+#root-node #new-message-input {
+    background-color: #424242 !important;
+    color: white !important;
+}
+#root-node .ticket-creator-component {
+    color: white !important;
+    font-weight: 900 !important;
+}
+.mt3.col.col-8.border.rounded {
+    background-color: black !important;
+    overflow-wrap: break-word !important;
+}
+.list-reset.m0 {
+    background-color: #424242 !important;
+}
+hr {
+    border-bottom-color: #212121 !important;
+}
+.field {
+    color: white !important;
+    border: 1px solid grey !important;
+    border-radius: 3px;
+    background-color: black !important;
+}
+.breadcrumb-link.ng-binding {
+    text-decoration: underline !important;
+    color: grey !important;
+}
+.action-view a code {
+    color: #0074d9 !important;
+}
+.action-view a {
+    color: #0074d9 !important;
+    line-height: 26px !important;
+}
