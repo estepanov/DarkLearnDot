@@ -1,7 +1,4 @@
 ## DarkLearnDot
-[DarkLearnDot screenshot](http://www.giphy.com/gifs/l378hE7k1ihDtrHB6)
-[same screenshot different provider](https://imgur.com/fJLlQx5)
- 
 ---
 
 The style.css file contains the css code for a darker theme for Full Stack Academy's learning platform.
