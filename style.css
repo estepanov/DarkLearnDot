@@ -47,7 +47,7 @@ a div.logo.brand.mobile-hide[style='background-image: url("assets/images/fullsta
     
     color: white !important;
     font-weight: 800 !important;
-    font-size: 1.2em;
+    font-size: 1.2em !important;
 }
 #fs-nav input[type=date],
 #fs-nav input[type=datetime-local],
